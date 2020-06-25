@@ -36,3 +36,6 @@ In this oroject there are three File:
     field:
         skill=enter by admin
   The program is check this skill employee "IS AVAILABLE" or "IS NOT AVAILABLE"
+
+This project is develop by Amit 
+I am using python and mysql.If i get internship i develop advanced level of this project i you give me proper instruction.
