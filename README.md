@@ -7,6 +7,7 @@ In this oroject there are three File:
         1:add employee.py
         2:task_info.py
         3:availability.py
+        4.database.py
         
 1:add employee.py
   In This file i will develop a program to add new employee.
@@ -39,3 +40,7 @@ In this oroject there are three File:
 
 This project is develop by Amit 
 I am using python and mysql.If i get internship i develop advanced level of this project i you give me proper instruction.
+
+4:database.py
+  In this file develop automatically develop database you can edit only host,user, password and port.
+  
