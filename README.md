@@ -1,9 +1,5 @@
-Hello sir ,
-Firstly I Share my feedback about your document
-Your Task is not clearly to identify
-
 How To use This projct
-In this oroject there are three File:
+In this project there are three File:
         1:add employee.py
         2:task_info.py
         3:availability.py
